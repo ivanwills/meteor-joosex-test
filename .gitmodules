@@ -1,0 +1,6 @@
+[submodule "packages/joosex-meteor"]
+	path = packages/joosex-meteor
+	url = git@github.com:ivanwills/JooseX-Meteor.git
+[submodule "packages/joose"]
+	path = packages/joose
+	url = git@github.com:ivanwills/meteor-joose.git
